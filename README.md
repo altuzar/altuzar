@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-#### I'm Fernando - Kick-Ass Software Engineer - Ruby on Rails & Node & React all the things!
+#### I'm Fernando - Rockstar Software Engineer - Ruby on Rails & Node & React all the things!
 
-- 🔭 I’m currently working on a rocket making robots.
+- 🔭 I’m currently working on a rocket building robots one PR at a time.
 - 🌱 I’m currently learning about leadership and machines.
 - 👯 I’m looking to collaborate on something cool.
 - 🤔 I’m looking for help with the environment.
